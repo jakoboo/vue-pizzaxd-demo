@@ -1,0 +1,113 @@
+{
+  "menu_data": [
+    {
+      "name": "Pizza",
+      "items": [
+        {
+          "name": "Pizza name",
+          "description": "Comes with all toppings listed in this section",
+          "price": 15
+        },
+        {
+          "name": "Pizza name",
+          "description": "Comes with all toppings listed in this section",
+          "price": 15
+        },
+        {
+          "name": "Pizza name",
+          "description": "Comes with all toppings listed in this section",
+          "price": 15
+        },
+        {
+          "name": "Pizza name",
+          "description": "Comes with all toppings listed in this section",
+          "price": 15
+        },
+        {
+          "name": "Pizza name",
+          "description": "Comes with all toppings listed in this section",
+          "price": 15
+        },
+        {
+          "name": "Pizza name",
+          "description": "Comes with all toppings listed in this section",
+          "price": 15
+        },
+        {
+          "name": "Pizza name",
+          "description": "Comes with all toppings listed in this section",
+          "price": 15
+        },
+        {
+          "name": "Pizza name",
+          "description": "Comes with all toppings listed in this section",
+          "price": 15
+        },
+        {
+          "name": "Pizza name",
+          "description": "Comes with all toppings listed in this section",
+          "price": 15
+        },
+        {
+          "name": "Pizza name",
+          "description": "Comes with all toppings listed in this section",
+          "price": 15
+        }
+      ]
+    },
+    {
+      "name": "Salad",
+      "items": [
+        {
+          "name": "Salad name",
+          "price": 5
+        },
+        {
+          "name": "Salad name",
+          "price": 5
+        },
+        {
+          "name": "Salad name",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "name": "Pasta",
+      "items": [
+        {
+          "name": "Pasta name",
+          "description": "Comes with all ingredients listed in this section",
+          "price": 10
+        },
+        {
+          "name": "Pasta name",
+          "description": "Comes with all ingredients listed in this section",
+          "price": 10
+        },
+        {
+          "name": "Pasta name",
+          "description": "Comes with all ingredients listed in this section",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "name": "Beverages",
+      "items": [
+        {
+          "name": "Beverage",
+          "price": 2
+        },
+        {
+          "name": "Beverage",
+          "price": 2
+        },
+        {
+          "name": "Beverage",
+          "price": 2
+        }
+      ]
+    }
+  ]
+}
