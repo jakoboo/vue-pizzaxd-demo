@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<button class="place-order-btn"><a href="#place-order">Place and order</a></button>
+		<button class="place-order-btn"><a href="#place-order">Place an order</a></button>
 		<button class="check-menu-btn"><a href="#menu">Check our menu</a></button>
 	</div>
 </template>
@@ -13,11 +13,11 @@ export default {
 
 <style lang="scss" scoped>
 div {
+	margin-top: 3rem;
 	max-width: 100%;
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: center;
-	gap: 2rem;
 
 	@media screen and (min-width: 920px) {
 		justify-content: left;
@@ -51,7 +51,13 @@ button {
 }
 
 .place-order-btn {
-  background-color: #EBD948;
+	margin-bottom: 2rem;
+  background-color: #ffe72d;
+
+	@media screen and (min-width: 768px) {
+		margin-right: 2rem;
+		margin-bottom: 0;
+	}
 
   a {
     color: black;

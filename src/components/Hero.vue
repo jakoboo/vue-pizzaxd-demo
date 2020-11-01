@@ -48,7 +48,7 @@ main {
 }
 
 h1 {
-  margin: 0;
+  margin-bottom: 1.5rem;
   font-size: 3rem;
 
   @media screen and (min-width: 920px) {

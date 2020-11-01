@@ -55,20 +55,21 @@ ul {
 		display: grid;
 		grid-template:
 								"name price" auto
-								"desc price" auto / auto min-content;
+								"desc ."     auto / auto min-content;
 
 		text-align: left;
 		align-items: center;
 
 		h2 {
 			margin: 0;
-			font-size: 1.5rem;
+			margin-bottom: .25rem;
+			font-size: 1.25rem;
 			grid-area: name;
 		}
 
 		span {
 			padding: 0 .5rem;
-			font-size: 1.5rem;
+			font-size: 2rem;
 			font-weight: bold;
 			grid-area: price;
 

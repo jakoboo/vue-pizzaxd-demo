@@ -56,23 +56,6 @@
       ]
     },
     {
-      "name": "Salad",
-      "items": [
-        {
-          "name": "Salad name",
-          "price": 5
-        },
-        {
-          "name": "Salad name",
-          "price": 5
-        },
-        {
-          "name": "Salad name",
-          "price": 5
-        }
-      ]
-    },
-    {
       "name": "Pasta",
       "items": [
         {
@@ -93,19 +76,36 @@
       ]
     },
     {
+      "name": "Salad",
+      "items": [
+        {
+          "name": "Salad name",
+          "price": 5
+        },
+        {
+          "name": "Salad name",
+          "price": 5
+        },
+        {
+          "name": "Salad name",
+          "price": 5
+        }
+      ]
+    },
+    {
       "name": "Beverages",
       "items": [
         {
           "name": "Beverage",
-          "price": 2
+          "price": 1.99
         },
         {
           "name": "Beverage",
-          "price": 2
+          "price": 1.99
         },
         {
           "name": "Beverage",
-          "price": 2
+          "price": 1.99
         }
       ]
     }
