@@ -2,7 +2,7 @@
   "name": "vue-pizzaxd-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bblk.pl/demos/vue-pizzaxd-demo",
+  "homepage": "https://bblk.pl/demos/vue-pizzaxd-demo/live",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
